@@ -35,8 +35,6 @@ Full Stack Developer • BSc Computer Science Student • Open Source Enthusiast
 ![](https://github-profile-trophy.vercel.app/?username=tan5dev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
@@ -46,4 +44,3 @@ Full Stack Developer • BSc Computer Science Student • Open Source Enthusiast
 ---
 ![](https://komarev.com/ghpvc/?username=Tan5dev&color=blue)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
