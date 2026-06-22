@@ -3,6 +3,9 @@
 <h3 align="center">
 Computer Science Student • Full Stack Developer • Open Source Learner
 </h3>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student;Full+Stack+Developer;Building+Cool+Projects;Always+Learning&center=true&width=500&height=50">
+</p>
 
 # 💫 About Me:
 🔭 Building web projects and learning modern development<br>🌱 Currently learning React and backend development<br>💻 Passionate about coding and problem solving<br>⚡ Fun fact: I love turning ideas into websites
