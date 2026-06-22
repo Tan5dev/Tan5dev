@@ -4,7 +4,7 @@
 Full Stack Developer • BSc Computer Science Student • Open Source Enthusiast
 </h3>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student;Full+Stack+Developer;Building+Cool+Projects;Always+Learning&center=true&width=500&height=50">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=BSc.+Computer+Science+Student;Full+Stack+Developer;Building+Cool+Projects;Always+Learning&center=true&width=500&height=50">
 </p>
 
 # 💫 About Me:
