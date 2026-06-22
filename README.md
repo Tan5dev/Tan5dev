@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tanmay Pathe</h1>
 
 <h3 align="center">
-Computer Science Student • Full Stack Developer • Open Source Learner
+Full Stack Developer • BSc Computer Science Student • Open Source Enthusiast
 </h3>
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student;Full+Stack+Developer;Building+Cool+Projects;Always+Learning&center=true&width=500&height=50">
