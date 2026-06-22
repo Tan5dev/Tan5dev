@@ -1,3 +1,9 @@
+<h1 align="center">Hi 👋, I'm Tanmay Pathe</h1>
+
+<h3 align="center">
+Computer Science Student • Full Stack Developer • Open Source Learner
+</h3>
+
 # 💫 About Me:
 🔭 Building web projects and learning modern development<br>🌱 Currently learning React and backend development<br>💻 Passionate about coding and problem solving<br>⚡ Fun fact: I love turning ideas into websites
 
