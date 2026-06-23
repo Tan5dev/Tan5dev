@@ -1,5 +1,3 @@
-look this is my code
-
 <h1 align="center">Hi 👋, I'm Tanmay Pathe</h1>
 
 <h3 align="center">
