@@ -1,125 +1,52 @@
+look this is my code
+
 <h1 align="center">Hi 👋, I'm Tanmay Pathe</h1>
 
-<h3 align="center">Full Stack Developer • BSc Computer Science Student • Open Source Enthusiast</h3>
-
+<h3 align="center">
+Full Stack Developer • BSc Computer Science Student • Open Source Enthusiast
+</h3>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Open+Source+Enthusiast;Building+Cool+Projects;BSc+Computer+Science+Student" />
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Building+Cool+Projects;Always+Learning;BSc.+Computer+Science+Student;Full+Stack+Developer&center=true&width=500&height=50">
 </p>
 
----
+# 💫 About Me:
+🔭 Building web projects and learning modern development<br>🌱 Currently learning React and backend development<br>💻 Passionate about coding and problem solving<br>⚡ Fun fact: I love turning ideas into websites
 
-<h2 align="center">💫 About Me</h2>
 
-<p align="center">
-🔭 Building web projects and learning modern development<br>
-🌱 Currently learning React and Backend Development<br>
-💻 Passionate about Coding and Problem Solving<br>
-⚡ Turning Ideas into Real Projects
-</p>
+# 💻 Tech Stack:
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](YOUR_LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge)](YOUR_LINK)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)     
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) 
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
+![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) 
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) 
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=tan5dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=tan5dev&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=tan5dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=tan5dev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<h2 align="center">🚀 Featured Projects</h2>
+## 💭 Random Dev Quote
 
-| Project | Description |
-|----------|-------------|
-| 🐍 Python Basics | Beginner-friendly Python learning repository |
-| ⚡ Advanced C Programming | Complete C Programming Roadmap |
-| 🏏 Cricket Doodle Game | Recreating and improving Google's Cricket Game |
-| 🌐 Portfolio Website | Personal Portfolio showcasing skills and projects |
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
----
+## 📈 Contribution Graph
 
-<h2 align="center">💻 Tech Stack</h2>
+[![Tanmay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Tan5dev&theme=tokyo-night)](https://github.com/Tan5dev)
 
-<p align="center">
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
-![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
-
-</p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=tan5dev&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+![](https://komarev.com/ghpvc/?username=Tan5dev&color=blue)
 
-<h2 align="center">🌐 Connect With Me</h2>
-
-<p align="center">
-<a href="https://github.com/Tan5dev">
-<img src="https://img.shields.io/badge/GitHub-Tan5dev-181717?style=for-the-badge&logo=github">
-</a>
-</p>
-
----
-
-<h2 align="center">📊 GitHub Statistics</h2>
-
-<p align="center">
-
-<img src="https://github-readme-stats.shion.dev/api?username=Tan5dev&theme=tokyonight&show_icons=true" />
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=Tan5dev&theme=tokyonight" />
-
-<br>
-
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Tan5dev&layout=compact&theme=tokyonight" />
-
-</p>
-
----
-
-<h2 align="center">📈 Contribution Graph</h2>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tan5dev&theme=tokyo-night" />
-</p>
-
----
-
-<h2 align="center">🏆 GitHub Trophies</h2>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Tan5dev&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-<h2 align="center">🔝 Top Contributed Repositories</h2>
-
-<p align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=Tan5dev&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
-</p>
-
----
-
-<h2 align="center">💭 Random Dev Quote</h2>
-
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
----
-
-<h2 align="center">👀 Profile Views</h2>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Tan5dev&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</p>
-
----
-
-<p align="center">
-⭐ From <a href="https://github.com/Tan5dev">Tan5dev</a>
-</p>
