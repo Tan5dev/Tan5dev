@@ -1,11 +1,14 @@
-<h1 align="center">Hi 👋, I'm Tanmay Pathe</h1>
+<div align="center">
 
-<h3 align="center">
-Full Stack Developer • BSc Computer Science Student • Open Source Enthusiast
-</h3>
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Building+Cool+Projects;Always+Learning;BSc.+Computer+Science+Student;Full+Stack+Developer&center=true&width=500&height=50">
-</p>
+# 👋 Hey, I'm Tanmay Pathe
+
+### 🚀 Full Stack Developer • BSc Computer Science Student • Open Source Enthusiast
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Building+Cool+Projects;Learning+Something+New+Every+Day;Open+Source+Contributor;Future+Software+Engineer" alt="Typing SVG" />
+
+</div>
+
+---
 
 # 💫 About Me:
 🔭 Building web projects and learning modern development<br>🌱 Currently learning React and backend development<br>💻 Passionate about coding and problem solving<br>⚡ Fun fact: I love turning ideas into websites
