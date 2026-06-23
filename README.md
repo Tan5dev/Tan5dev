@@ -34,9 +34,13 @@ Full Stack Developer • BSc Computer Science Student • Open Source Enthusiast
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=tan5dev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+## 💭 Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+## 📈 Contribution Graph
+
+[![Tanmay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Tan5dev&theme=tokyo-night)](https://github.com/Tan5dev)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=tan5dev&limit=5&theme=dark&combine_all_yearly_contributions=true)
