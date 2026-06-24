@@ -13,16 +13,11 @@
 ## 💫 About Me
 
 ```yaml
-Name: Tanmay Pathe
-Education: BSc Computer Science Student
-Location: Pune, India 🇮🇳
-Focus: Full Stack Development
 
-Currently Learning:
-  - React.js
-  - Node.js
-  - Backend Development
-
+🔭 Building web projects and learning modern development<br>
+🌱 Currently learning React and backend development<br>
+💻 Passionate about coding and problem solving<br>⚡
+Fun fact: I love turning ideas into websites
 Goals:
   - Build impactful projects
   - Contribute to Open Source
