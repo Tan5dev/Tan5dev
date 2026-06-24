@@ -14,10 +14,12 @@
 
 ```yaml
 
-🔭 Building web projects and learning modern development<br>
-🌱 Currently learning React and backend development<br>
-💻 Passionate about coding and problem solving<br>⚡
-Fun fact: I love turning ideas into websites
+🔭 Building web projects and learning modern development
+🌱 Currently learning React and backend development
+💻 Passionate about coding and problem solving
+
+⚡Fun fact: I love turning ideas into websites
+
 Goals:
   - Build impactful projects
   - Contribute to Open Source
