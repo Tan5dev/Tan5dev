@@ -88,7 +88,7 @@ Goals:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Tan5dev&theme=dark&no-frame=true&no-bg=true&row=1&column=6"/>
+[<img src="https://github-profile-trophy.vercel.app/?username=Tan5dev&theme=dark&no-frame=true&no-bg=true&row=1&column=6"/>](https://trophygithubreadmelang.cybee.dpdns.org/?username=Tan5dev&theme=gruvbox)
 
 </div>
 
