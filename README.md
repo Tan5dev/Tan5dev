@@ -10,44 +10,143 @@
 
 ---
 
-# 💫 About Me:
-🔭 Building web projects and learning modern development<br>🌱 Currently learning React and backend development<br>💻 Passionate about coding and problem solving<br>⚡ Fun fact: I love turning ideas into websites
+## 💫 About Me
 
+```yaml
+Name: Tanmay Pathe
+Education: BSc Computer Science Student
+Location: Pune, India 🇮🇳
+Focus: Full Stack Development
 
-# 💻 Tech Stack:
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](YOUR_LINK)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge)](YOUR_LINK)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)     
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
-![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) 
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) 
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=tan5dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=tan5dev&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=tan5dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Currently Learning:
+  - React.js
+  - Node.js
+  - Backend Development
+
+Goals:
+  - Build impactful projects
+  - Contribute to Open Source
+  - Become a Software Engineer
+```
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)
+[![GitHub](https://img.shields.io/badge/GitHub-Tan5dev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tan5dev)
+
+</div>
+
+---
+
+## ⚡ Tech Stack
+
+### Programming Languages
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### Frontend Development
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+### Design Tools
+
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Tan5dev&show_icons=true&theme=dark&hide_border=true"/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=Tan5dev&theme=dark&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tan5dev&layout=compact&theme=dark&hide_border=true"/>
+
+</div>
+
+---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=tan5dev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 💭 Random Dev Quote
+<div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<img src="https://github-profile-trophy.vercel.app/?username=Tan5dev&theme=dark&no-frame=true&no-bg=true&row=1&column=6"/>
+
+</div>
+
+---
 
 ## 📈 Contribution Graph
 
-[![Tanmay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Tan5dev&theme=tokyo-night)](https://github.com/Tan5dev)
+<div align="center">
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=tan5dev&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tan5dev&theme=react-dark&hide_border=true"/>
+
+</div>
 
 ---
-![](https://komarev.com/ghpvc/?username=Tan5dev&color=blue)
 
+## 💭 Random Developer Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</div>
+
+---
+
+## 🚀 Featured Repositories
+
+### 📚 Learning Repositories
+
+- 🐍 Python Basics
+- ⚙️ C Programming
+- 🚀 Advanced C Programming
+- ☕ Java Fundamentals
+
+### 🛠️ Projects
+
+- 🏏 Cricket Doodle Game Clone
+- 🌐 Personal Portfolio Website
+- ⚛️ React Projects
+- 🚀 Open Source Contributions
+
+---
+
+<div align="center">
+
+### 👀 Profile Visitors
+
+<img src="https://komarev.com/ghpvc/?username=Tan5dev&style=for-the-badge&color=blue"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ "Code. Learn. Build. Repeat."
+
+</div>
