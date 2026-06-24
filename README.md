@@ -68,9 +68,10 @@ Goals:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Tan5dev&show_icons=true&theme=dark&hide_border=true"/>
-
-<img height="170" src="https://streak-stats.demolab.com?user=Tan5dev&theme=dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Tan5dev&show_icons=true&theme=dark&cache_seconds=18000&hide_border=true"/>
+</div>
+<div align="center">
+<img height="170" src="https://streak-stats.demolab.com?user=Tan5dev&theme=dark&cache_seconds=18000&hide_border=true"/>
 
 </div>
 
@@ -78,19 +79,8 @@ Goals:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tan5dev&layout=compact&theme=dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tan5dev&layout=compact&theme=dark&cache_seconds=18000&hide_border=true"/>
 
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<p align="center">
-  <img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=Tan5dev&theme=gruvbox" />
-</p>
 </div>
 
 ---
@@ -116,7 +106,8 @@ Goals:
 ---
 
 ## 🚀 Featured Repositories
-
+<div align="left">
+  
 ### 📚 Learning Repositories
 
 - 🐍 Python Basics
@@ -130,7 +121,7 @@ Goals:
 - 🌐 Personal Portfolio Website
 - ⚛️ React Projects
 - 🚀 Open Source Contributions
-
+  </div>
 ---
 
 <div align="center">
