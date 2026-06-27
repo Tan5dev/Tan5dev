@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Tanmay Pathe
 
-### 🚀 Full Stack Developer • BSc Computer Science Student • Open Source Enthusiast
+### 🚀 Full Stack Developer • B.E. Computer Science Student • Open Source Enthusiast
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Building+Cool+Projects;Learning+Something+New+Every+Day;Open+Source+Contributor;Future+Software+Engineer" alt="Typing SVG" />
 
